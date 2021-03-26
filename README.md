@@ -2,7 +2,11 @@
 La radio qui va retourner le 10ème arrondissement. 
 
 
-## Lancer le projet pour dev
+## Lancer le projet
+
+A installer : 
+- Node.js 
+- Npm 
 
 Une fois le projet importé : 
 ```
