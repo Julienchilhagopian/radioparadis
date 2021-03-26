@@ -2,9 +2,11 @@
 @import 'utils';
 
 * {
-  font-family: $Garamond-font;
+  font-family: $Anton-font;
 }
 
 
-// ---- HOME PAGE ---- //
+// ---- HEADER ---- //
+
+@import 'header';
 

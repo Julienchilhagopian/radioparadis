@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "nodemon ./bin/www",
+    "start": "nodemon -e js,mjs,json,hbs,css ./bin/www",
     "start-dev": "nodemon --inspect app.js",
     "sass": "node-sass -w ./public/stylesheets/scss -o ./public/stylesheets"
   },
